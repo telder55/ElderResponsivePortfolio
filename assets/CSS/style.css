@@ -3,9 +3,8 @@
 }
 
 .img-thumbnail {
-    max-width: 300px;
     float: left;
-    padding-right: 5px;
+    margin: 0 20px 0 0;
 }
 
 .card-text {
