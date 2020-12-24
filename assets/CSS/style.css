@@ -7,7 +7,10 @@
     margin: 0 20px 0 0;
     border: none;
     }
-
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
 .card-text {
     float: left;
