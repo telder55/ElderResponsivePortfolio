@@ -5,6 +5,7 @@
 .img-thumbnail {
     max-width: 300px;
     float: left;
+    padding-right: 5px;
 }
 
 .card-text {
