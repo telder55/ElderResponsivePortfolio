@@ -2,6 +2,10 @@
     float: right;
 }
 
+.container {
+    min-height: 100%;
+}
+
 .img-thumbnail {
     float: left;
     margin: 0 20px 0 0;
@@ -18,7 +22,13 @@
 
 #about-me {
     margin-left: 10px;
+    min-width: 400px;
 }
+
+html, body {
+    height: 100%;
+    margin: 0;
+  }
 
 body {
     background-color:#d4cac03a;
@@ -29,3 +39,21 @@ body {
     text-align: center;
     margin: 20px 5px 20px 5px;
 }
+
+footer {
+    text-align: center;
+    margin: 10px 0 0 0;
+    padding: 10px;
+    background-color: #f8f9fa;
+    width: 100%;
+    font-size: 0.75rem;
+}
+
+.footer,
+.push {
+  height: 50px;
+}
+
+.wrapper {
+  min-height: 100%;
+  margin-bottom: -50px;
