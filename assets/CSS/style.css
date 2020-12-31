@@ -42,7 +42,7 @@ body {
 
 footer {
     text-align: center;
-    margin: 10px 0 0 0;
+    margin: 10 0 0 0;
     padding: 10px;
     background-color: #f8f9fa;
     width: 100%;
@@ -57,3 +57,4 @@ footer {
 .wrapper {
   min-height: 100%;
   margin-bottom: -50px;
+}
