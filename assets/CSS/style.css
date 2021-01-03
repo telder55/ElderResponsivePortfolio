@@ -22,7 +22,8 @@
 
 #about-me {
     margin-left: 10px;
-    min-width: 400px;
+    /* min-width: 400px; */
+    /* float: left; */
 }
 
 html, body {
@@ -58,3 +59,4 @@ footer {
   min-height: 100%;
   margin-bottom: -50px;
 }
+
