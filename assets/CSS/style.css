@@ -20,8 +20,8 @@
     float: left;
 }
 
-#about-me {
-    margin-left: 10px;
+.about-me {
+    margin-left: 5px;
     /* min-width: 400px; */
     /* float: left; */
 }
