@@ -26,6 +26,13 @@
     /* float: left; */
 }
 
+h1 {
+    font-family: 'Raleway', sans-serif;
+    margin: 20px, 0px, 20px, 0px;
+    margin-top: 20px;
+    
+}
+
 html, body {
     height: 100%;
     margin: 0;
@@ -33,6 +40,7 @@ html, body {
 
 body {
     background-color:#d4cac03a;
+    font-family: 'Raleway', sans-serif;
 }
 
 .game-header {
