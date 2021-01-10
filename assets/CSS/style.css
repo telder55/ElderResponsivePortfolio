@@ -76,4 +76,6 @@ footer {
 
 .btn {
     margin-bottom: 20px;
+    background-color: chocolate;
+    border-color: chocolate;
 }
