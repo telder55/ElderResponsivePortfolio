@@ -76,6 +76,11 @@ footer {
 
 .btn {
     margin-bottom: 20px;
+    background-color: #be633fd5;
+    border-color: #f8f9fa;
+}
+
+.btn:hover {
     background-color: chocolate;
-    border-color: chocolate;
+    border-color: coral;
 }
