@@ -7,7 +7,7 @@ https://telder55.github.io/ElderResponsivePortfolio
 
 ## Screenshot
 ![Alt text](assets/images/About-Me-desktop.png?raw=true "About Me Page - Desktop")
-![Alt text](assets/images/About-Me-Mobile.png?raw=true "About Me Page - Desktop")
+![Alt text](assets/images/About-Me-Mobile.png?raw=true "About Me Page - Mobile")
 
 ## License
 No License
